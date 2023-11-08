@@ -1,7 +1,9 @@
+import ProductTable from "../ProductTable/ProductTable"
+
 const Administracion = () =>{
     return(
         <>
-            Administracion
+            <ProductTable/>
         </>
     )
 }
